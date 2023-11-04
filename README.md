@@ -1,1 +1,1 @@
-# simple_shell
+This simple_shell project is a team project
