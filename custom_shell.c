@@ -27,7 +27,7 @@ if (command == 0)
 {
 perror("command not found");
 }
-if (command == 4) /* if user enter ctrl+D */
+if (command == EOF) /* if user enter ctrl+D */
 {
 exit(1);
 }
